@@ -2,7 +2,7 @@
 
 Teach an agent how to play Lunar Lander with Policy Gradients and TensorFlow.
 
-<img src="https://github.com/WojciechMormul/rl-pg/blob/master/imgs/game1.bmp" width="240"><img src="https://github.com/WojciechMormul/rl-pg/blob/master/imgs/game2.bmp" width="240"><img src="https://github.com/WojciechMormul/rl-pg/blob/master/imgs/game3.bmp" width="240"><img src="https://github.com/WojciechMormul/rl-pg/blob/master/imgs/game4.bmp" width="240">
+<img src="https://github.com/WojciechMormul/rl-pg/blob/master/imgs/games.png" width="1200">
 
 Policy-based methods avoid learning value function and instrad directly find optimal agent's policy. Simple cross entropy method depends on playing some games with current policy, finding elite games which have rewrad better than others, and directly changing policy based on states and actions in those elite games. Policy gradients method is a bit more sophisticated.
 
